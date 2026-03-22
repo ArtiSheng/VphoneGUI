@@ -6,7 +6,7 @@ macOS 桌面应用，用于管理 [vphone-cli](https://github.com/nicklama/vphon
 
 ## 截图
 
-![VphoneGUI 界面](VphoneGUI/图片/1.png)
+![VphoneGUI 界面](VphoneGUI/%E5%9B%BE%E7%89%87/1.png)
 
 ## 功能
 
